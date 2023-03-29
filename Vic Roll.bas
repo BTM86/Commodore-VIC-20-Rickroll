@@ -9,7 +9,7 @@
 90 print"{blue}{down}{down}{down}{down}{down}{reverse on}     or more like"
 100 print"{red}{down}{reverse on}      vic-rolled!"
 110 print"{purple}{down}{down}{reverse on}btm86 (2023)";
-120 s=36875
+120 s=36876
 130 for i=1 to 72
 140 read x:poke 7167+i,x
 150 next i
